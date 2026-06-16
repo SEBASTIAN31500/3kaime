@@ -69,4 +69,5 @@ python3 ../interface.py
 - cd Bonsai-demo で落としてきたBonsaiのフォルダに移動
 - source .venv/bin/activateで仮想環境venvに入る
 - python3 interface.pyで対話用プログラムを起動
-  - コマンドがpython3なことに注意
+  - コマンドがpython3なことに注
+  プロジェクト概要を追記
